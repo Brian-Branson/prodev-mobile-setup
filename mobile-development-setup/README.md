@@ -1,0 +1,3 @@
+-Clicked the link which redirected me to the website where i downloaded the installer.
+-I launched the installer and it installed the necessary files without error.
+-Scanned the Qr code which redirected me to my play store and i proceeded to install the app with no errors.

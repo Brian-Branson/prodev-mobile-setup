@@ -1,0 +1,5 @@
+-i ran the command to install the app files but the provided code did not give the desired effect so had to run " npx create-expo-app -e with-router app-example" which gave the desired effect
+-started the program through the expo go app and connected to the file through scanning the provided QR code
+-ran into an error and had to create the /app/index,tsx file and a layout file to reroute the homepage to /app/(tabs)/index.tsx file 
+-after that wrote the necessary code to display a "Welcome " message
+-after that i ran "npm run reset-project" which did not work so i had to start with npm run then ran other code since there was not script for the original code which cleared all the temporary files
